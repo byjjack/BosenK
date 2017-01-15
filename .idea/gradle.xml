@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="F:\myas\android-studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/listviewdemo" />
+            <option value="$PROJECT_DIR$/lix" />
+            <option value="$PROJECT_DIR$/messagedemo" />
+            <option value="$PROJECT_DIR$/shenhua" />
+            <option value="$PROJECT_DIR$/哎哟" />
+            <option value="$PROJECT_DIR$/测试" />
+            <option value="$PROJECT_DIR$/测试2" />
+            <option value="$PROJECT_DIR$/测试3" />
+            <option value="$PROJECT_DIR$/练习" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BosenK.iml" filepath="$PROJECT_DIR$/BosenK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewdemo/listviewdemo.iml" filepath="$PROJECT_DIR$/listviewdemo/listviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lix/lix.iml" filepath="$PROJECT_DIR$/lix/lix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messagedemo/messagedemo.iml" filepath="$PROJECT_DIR$/messagedemo/messagedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shenhua/shenhua.iml" filepath="$PROJECT_DIR$/shenhua/shenhua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/哎哟/哎哟.iml" filepath="$PROJECT_DIR$/哎哟/哎哟.iml" />
+      <module fileurl="file://$PROJECT_DIR$/测试/测试.iml" filepath="$PROJECT_DIR$/测试/测试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/测试2/测试2.iml" filepath="$PROJECT_DIR$/测试2/测试2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/测试3/测试3.iml" filepath="$PROJECT_DIR$/测试3/测试3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/练习/练习.iml" filepath="$PROJECT_DIR$/练习/练习.iml" />
+    </modules>
+  </component>
+</project>
